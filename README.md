@@ -10,7 +10,7 @@ Instead of analyzing already available data in resources like [Kaggle](https://w
 
 But one of the goals of this project was to make the data extraction process simple. Importantly, the custom code used here should be able to fetch any query topic from PubMed (and so does it can).
 
-So instead of analyzing a plethora of full-text literature data, here I have fetched, processed, and analyzed the PubMed (or MEDLINE) bibliographic and other metadata.
+So instead of analyzing a plethora of full-text literature data, here I have fetched, processed, and analyzed nearly ~200,000 PubMed (or MEDLINE) bibliographic and other metadata.
 
 ## Libraries
 - Pandas 
