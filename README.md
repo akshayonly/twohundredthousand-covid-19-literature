@@ -6,7 +6,7 @@ The goal of the project is to extract SARS CoV-2 bibliographic and other metadat
 ## Personal Note
 The inspiration for this project came from the thought - How archeologists extract and analyze ancient artifacts and piece together the data. (Well I don't know what exact words or methods they use).
 
-Instead of analyzing already available data in resources like Kaggle, I wanted to extract the data myself. As of 26th Feb 2022, Now there are around  232,253 literature results in PubMed. Even if one-fourth of full-text articles are extracted, they still would be in large size. 
+Instead of analyzing already available data in resources like [Kaggle](https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge), I wanted to extract the data myself. As of 26th Feb 2022, Now there are around  232,253 literature results in PubMed. Even if one-fourth of full-text articles are extracted, they still would be in large size. 
 
 But one of the goals of this project was to make the data extraction process simple. Importantly, the custom code used here should be able to fetch any query topic from PubMed (and so does it can).
 
