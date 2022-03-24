@@ -1,4 +1,4 @@
-# Exploratory-Data-Analysis By Data Minning ~200,000 Covid-19 PubMed Literature
+# Exploratory-Data-Analysis By Data Minning ~200,000 Covid-19 PubMed Bibliographic and other MEDLINE metadata
 
 ## Objective
 The goal of the project is to extract SARS CoV-2 bibliographic and other metadata from PubMed. This metadata includes Abstracts, Article Title, Authors, Secondary Sources, Biological Compounds, etc. The extracted metadata is then pre-processed to transform into pandas dataframe. Seaborn and Matplotlib are used for primary visualization. Networkx is used to build and analyse MeSH terms network-graph. 
